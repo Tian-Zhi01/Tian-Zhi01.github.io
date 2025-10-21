@@ -1,0 +1,42 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+== Group XXX
+
+~~~
+{}{img_left}{Pictures/Francois.jpg}{photo}{180}{200}{}
+*François Gay-Balmaz* \n
+Associate Professor \n
+[https://www.ntu.edu.sg/spms/about-us/mathematics/ School of Physical and Mathematical Sciences \n Nanyang Technological University (NTU), Singapore] \n
+\n
+Email: [francois.gb@ntu.edu.sg francois.gb@ntu.edu.sg] \n
+Website: [https://tianzhi-li.github.io]\n
+[https://scholar.google.com/citations?user=tKlUuGYAAAAJ&hl=en&oi=ao *Google Scholar*] and  [https://www.researchgate.net/profile/Francois-Gay-Balmaz *ResearchGate*] 
+~~~
+
+
+
+== About François
+François Gay-Balmaz is an Associate Professor in Mathematics at [https://www.ntu.edu.sg/ Nanyang Technological University (NTU)], Singapore, since September 2023. Previously he was a researcher at the [https://www.cnrs.fr/en Centre National de la Recherche Scientifique (CNRS, France)] at [https://www.ens.psl.eu/ Ecole Normale Supérieure de Paris (ENS)]. He received his Master (2004) and Ph.D. degrees (2009) from the [https://www.epfl.ch/en/ Swiss Federal Institute of Technology (EPFL, Switzerland)] and his Habilitation (2018) at [https://www.sorbonne-universite.fr/en Sorbonne University]. He was also a PostDoc at EPFL and at the [https://www.caltech.edu/ California Institute of Technology] (from 2009 to 2010).\n
+
+
+== Research Interest
+My main research concerns the development of geometric methods for the modeling, the numerical discretization, and the analysis of partial differential equations arising in fluid dynamics and nonlinear elasticity.\n
+- *Geometric methods in fluid dynamics and elasticity* \n
+- *Structure preserving discretization* \n
+- *Variational principles in nonequilibrium thermodynamics* \n
+- *Geometry and modeling of quantum-classical systems* \n
+
+
+
+== News
+- *Oct 2025*: XXX XXX
+- *Sep 2025*: XXX XXX
+- *Aug 2025*: XXX
+
+
+
+== Visitors
+~~~
+{}{raw}
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=500&t=tt&d=xhVZNesALNCVh_XEzDWwkI3vUBxDVkZLSLpACTYGZ7A'></script>
+~~~
+
