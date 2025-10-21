@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{index.html}, nofooter
+# jemdoc: menu{MENU}{francois.html}, nofooter
 == Group XXX
 
 ~~~
@@ -34,9 +34,4 @@ My main research concerns the development of geometric methods for the modeling,
 
 
 
-== Visitors
-~~~
-{}{raw}
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=500&t=tt&d=xhVZNesALNCVh_XEzDWwkI3vUBxDVkZLSLpACTYGZ7A'></script>
-~~~
 
